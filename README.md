@@ -1,3 +1,16 @@
-# lab3-MIS
-<img width="384" height="831" alt="image" src="https://github.com/user-attachments/assets/7dcd7e39-a632-4b35-a18e-9136b1d0d629" />
-<img width="362" height="792" alt="image" src="https://github.com/user-attachments/assets/461741fb-8e4e-4e3a-8f48-9a0e88e6355c" />
+# lab2_mis
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
